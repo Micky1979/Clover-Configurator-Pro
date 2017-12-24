@@ -33,6 +33,7 @@ Micky1979
 
 ## Other
 **Special thanks to the [Sparkle project](https://sparkle-project.org) that keeps Clover Configurator Pro.app up-to-date .**
+
 **App icon by Mirone.**
 
 ## What is?
@@ -40,7 +41,7 @@ Micky1979
 True, but what if you don't want all the Clover facilities to show up? go to the Preferences and mark as active the following:
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/beplisteditoronly.png)**
 
-**from now on, Clover Configurator is only a Plist Editor!**
+**from now on, Clover Configurator Pro is only a Plist Editor!**
 
 ## Editing the config.plist
 Clover Configurator Pro can automatically load the config.plist used to boot the OS automatically, just ensure this option is enabled in the Preferences:
