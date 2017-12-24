@@ -41,15 +41,17 @@ True, but what if you don't want all the Clover facilities to show up? go to the
 from now on, Clover Configurator is only a Plist Editor!
 
 ## Editing the config.plist
-Clover Configurator Pro can automatically load the config.plist used to boot the OS automatically, just ensure this option is enbled in the Preferences:
+Clover Configurator Pro can automatically load the config.plist used to boot the OS automatically, just ensure this option is enabled in the Preferences:
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/trytoloadconfig.png)
 
 What if you want to load another one? Simple, open the "Clover Manager" under the "View" menu:
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/selectConfig.png)
+
 right click on the desired click (boot partition is green colored) and choose one. The partition must be mounted.
 Or if the file is elsewhere just drag it to the applications icon, or right clik on the file you want to open.
 
 How to edit something for Clover? Well, that is the easy part, just right click with the mouse over any entry of the config.plist:
+
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/editexitingSMBIOS1.png)
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/editexitingSMBIOS2.png)
 
@@ -84,6 +86,7 @@ Did not like it? Go to the Preferences and disable "Start in dark mode. Applied 
 actually Italian and English are available at 100%, Portoguese is at 90% (thanks to Mirone),
 but you can translate it easily by making a copy of Base.strings into your locale identifier suggested directly by Clover Configurator Pro in the upper left corner of the Preferences:
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/localeid.png)
+
 localization files are all inside the app at Clover Configurator Pro/Contents/Resources/Locale.bundle/
 edit existent, or as I said make a new one.
 Open an issue or a pull request with the translated file, so that We can keep track of changes**
