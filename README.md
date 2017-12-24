@@ -92,7 +92,7 @@ Did not like it? Go to the Preferences and disable "Start in dark mode. Applied 
 ## How to translate
 **Clover Configurator Pro is multi language :
 actually Italian and English are available at 100%, Portoguese is at 90% (thanks to Mirone),
-but you can translate it easily by making a copy of Base.strings into your locale identifier suggested directly by Clover Configurator Pro in the upper left corner of the Preferences:**
+but you can translate it easily by making a copy of Base.strings into your locale identifier suggested directly by Clover Configurator Pro in the upper right corner of the Preferences:**
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/localeid.png)
 
 **You can find localization files at this dedicated  repository [here](https://github.com/Micky1979/CCP-Locale-Bundle)**
