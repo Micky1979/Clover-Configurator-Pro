@@ -19,7 +19,7 @@ Seem strange anyway? Take a look  [here](http://www.insanelymac.com/forum/topic/
 Hey, but me too I'm able to copy LoL!  So now.. copy  this if you can!
 (consider that [PXSourceList](https://github.com/Perspx/PXSourceList) is now 4 years old and cannot be used to write a plist editor.
 Forgot that you should also give credit to the following (used class-dump):
-[Alamofire](https://github.com/Alamofire/Alamofiret),
+[Alamofire](https://github.com/Alamofire/Alamofire),
 [CNSplitView](https://github.com/phranck/CNSplitView),
 [NoodleKit](https://github.com/MrNoodle/NoodleKit),
 [DockProgressBar](https://github.com/hokein/DockProgressBar),
