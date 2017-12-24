@@ -35,10 +35,11 @@ Micky1979
 **Special thanks to the [Sparkle project](https://sparkle-project.org) that keeps Clover Configurator Pro.app up-to-date .**
 
 ## What is?
-Clover Configurator Pro is a professional Plist editor and is totally free!
+**Clover Configurator Pro is a professional Plist editor and is totally free!
 True, but what if you don't want all the Clover facilities to show up? go to the Preferences and mark as active the following:
-![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/beplisteditoronly.png)
-from now on, Clover Configurator is only a Plist Editor!
+![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/beplisteditoronly.png)**
+
+**from now on, Clover Configurator is only a Plist Editor!**
 
 ## Editing the config.plist
 Clover Configurator Pro can automatically load the config.plist used to boot the OS automatically, just ensure this option is enabled in the Preferences:
@@ -84,10 +85,10 @@ Did not like it? Go to the Preferences and disable "Start in dark mode. Applied 
 ## How to translate
 **Clover Configurator Pro is multi language :
 actually Italian and English are available at 100%, Portoguese is at 90% (thanks to Mirone),
-but you can translate it easily by making a copy of Base.strings into your locale identifier suggested directly by Clover Configurator Pro in the upper left corner of the Preferences:
+but you can translate it easily by making a copy of Base.strings into your locale identifier suggested directly by Clover Configurator Pro in the upper left corner of the Preferences:**
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/localeid.png)
 
-localization files are all inside the app at Clover Configurator Pro/Contents/Resources/Locale.bundle/
+**localization files are all inside the app at Clover Configurator Pro/Contents/Resources/Locale.bundle/
 edit existent, or as I said make a new one.
 Open an issue or a pull request with the translated file, so that We can keep track of changes**
 
