@@ -82,7 +82,10 @@ The boot-log viewer and the NVRAM editor
 The NVRAM editor is cool and can help you editing or understand your NVRAM in a clear way.
 
 ## Clover Configurator Pro has a Dark appearance?
-Did not like it? Go to the Preferences and disable "Start in dark mode. Applied on next run.", restar the app, and everything will be different!
+Did not like it? Go to the Preferences and disable "Start in dark mode. Applied on next run.", restar the app, and everything will be different:
+
+![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/vibrantLight.png)
+
 
 ## How to translate
 **Clover Configurator Pro is multi language :
