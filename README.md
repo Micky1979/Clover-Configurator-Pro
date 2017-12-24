@@ -10,7 +10,7 @@ All the code comes from me,  with the only exception of the handy Sparkle.framen
 Run in macOS 10.11 +
 
 Why this name? Ok, "Clover" is an opensource bootloader,
-whould say also that my name is among the Clover's credit (at boot time push the info button) because I wrote the MachOS set of functions (and other minor things here and there in the build system), unlike my competitors.
+whould say also that my name is among the Clover's credit (at boot time push the info button) because I wrote the MatchOS set of functions (and other minor things here and there in the build system), unlike my competitors.
 "Configurator" is a common word,
 "Pro" stand for "Professional" since this is a real Plist Editor like Xcode has or any other commercial app.... but this is totally free!
 
