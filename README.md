@@ -52,7 +52,7 @@ Clover Configurator Pro can automatically load the config.plist used to boot the
 What if you want to load another one? Simple, open the "Clover Manager" under the "View" menu:
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/selectConfig.png)
 
-right click on the desired click (boot partition is green colored) and choose one. The partition must be mounted.
+right click on the desired disk (boot partition is green colored) and choose one. The partition must be mounted.
 Or if the file is elsewhere just drag it to the applications icon, or right clik on the file you want to open.
 
 How to edit something for Clover? Well, that is the easy part, just right click with the mouse over any entry of the config.plist:
