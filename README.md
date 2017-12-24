@@ -79,7 +79,7 @@ always the latest Clover revision available. To do that take a look at the "Buil
 Mind that Xcode must be installed and its clt selected.
 
 ## Additions
-Under the view menu you will find confortable aving a text to data encoder/decoder, a hex to base64 encoder/decoder
+Under the view menu you will find confortable having a text to data encoder/decoder, a hex to base64 encoder/decoder
 The boot-log viewer and the NVRAM editor
 The NVRAM editor is cool and can help you editing or understand your NVRAM in a clear way.
 
