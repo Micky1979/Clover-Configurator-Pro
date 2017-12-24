@@ -33,6 +33,7 @@ Micky1979
 
 ## Other
 **Special thanks to the [Sparkle project](https://sparkle-project.org) that keeps Clover Configurator Pro.app up-to-date .**
+**App icon by Mirone.**
 
 ## What is?
 **Clover Configurator Pro is a professional Plist editor and is totally free!
@@ -62,8 +63,8 @@ if a key does not yet exist or your is a new empty document just right click on 
 ## Installing Clover
 Depending on what's on your Preferences, you have two way:
 
-1 - Download a precompiled binaries (default)
-2 - Use Clover source code by specifying the path to the src folder (~/src by default) and mark as active the relative option in the Preferences
+**1 - Download a precompiled binaries (default).**
+**2 - Use Clover source code by specifying the path to the src folder (~/src by default) and mark as active the relative option in the Preferences.**
 
 Open the "Clover Manager" under the "View" menu:
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/CloverInstaller1.png)
@@ -88,9 +89,9 @@ actually Italian and English are available at 100%, Portoguese is at 90% (thanks
 but you can translate it easily by making a copy of Base.strings into your locale identifier suggested directly by Clover Configurator Pro in the upper left corner of the Preferences:**
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/localeid.png)
 
-**localization files are all inside the app at Clover Configurator Pro/Contents/Resources/Locale.bundle/
-edit existent, or as I said make a new one.
-Open an issue or a pull request with the translated file, so that We can keep track of changes**
+**You can find localization files at this dedicated  repository [here](https://github.com/Micky1979/CCP-Locale-Bundle)**
+**Fork the repository, edit the file, or as I said make a new one naming it as CCP suggested you.
+Open a pull request at the [CCP-Locale-Bundle](https://github.com/Micky1979/CCP-Locale-Bundle)  repository with the translated file, so that We can keep track of changes**
 
 ## TODO
 **adding more functionalities after a good debugging.**
