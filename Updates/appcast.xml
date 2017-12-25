@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Clover Configurator Pro Changelog</title>
+        <link>https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/Updates/Appcast.xml</link>
+        <description></description>
+        <language>en</language>
+        <item>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+            <title>v1.1 Beta 3</title>
+            <sparkle:minimumSystemVersion>10.11.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>
+                https://rawgit.com/Micky1979/Clover-Configurator-Pro/master/Updates/ReleaseNote.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue Dec 25 14:10:08 CEST 2017</pubDate>
+            <enclosure url="https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CCP_v1.1_Beta3.zip?raw=true"
+            sparkle:shortVersionString="v1.1 Beta 3"
+            sparkle:version="1.1"
+            length="9368302"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MEQCIC0S8s+ceOpTpjzLF2guRnz+MymJGD9IAIe+Xt3ESPygAiALH7Lvhq26ldjSNNhy+0/B6Y4KW8uc6z/PYp6iLytlmw==" />
+        </item>
+    </channel>
+</rss>
