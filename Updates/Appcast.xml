@@ -14,10 +14,10 @@
             <sparkle:releaseNotesLink>
                 https://rawgit.com/Micky1979/Clover-Configurator-Pro/master/Updates/ReleaseNote.html
             </sparkle:releaseNotesLink>
-            <pubDate>Tue Dec 25 14:10:08 CEST 2017</pubDate>
+            <pubDate>Wed Dec 26 22:38:08 CEST 2017</pubDate>
             <enclosure url="https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CCP_v1.2_Beta4.zip?raw=true"
-            sparkle:shortVersionString="v1.1 Beta 3"
-            sparkle:version="1.1"
+            sparkle:shortVersionString="v1.2 Beta 4"
+            sparkle:version="1.2"
             length="9389820"
             type="application/octet-stream"
             sparkle:dsaSignature="MEUCIQCdarB0pSC2ReM7msu1LIaik1whVbkxAPmkU/3zFJ7YnAIgGzJcSnC2u8V6ya7dbP6H4NIIjr+QISiKuNYs8dPoSNE=" />
