@@ -98,8 +98,8 @@ actually Italian and English are available at 100%, Portoguese is at 90% (thanks
 but you can translate it easily by making a copy of Base.strings into your locale identifier suggested directly by Clover Configurator Pro in the upper right corner of the Preferences:**
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/localeid.png)
 
-**You can find localization files at this dedicated  repository [here](https://github.com/Micky1979/CCP-Locale-Bundle)**
-**Fork the repository, edit the file, or as I said make a new one naming it as CCP suggested you.
+**You can find localization files at this dedicated  repository [here](https://github.com/Micky1979/CCP-Locale-Bundle),**
+**Fork it edit the file, or as I said make a new one naming it as CCP suggested you.
 Open a pull request at the [CCP-Locale-Bundle](https://github.com/Micky1979/CCP-Locale-Bundle)  repository with the translated file, so that We can keep track of changes**
 
 ## TODO
