@@ -67,10 +67,13 @@ if a key does not yet exist or your is a new empty document just right click on 
 Depending on what's on your Preferences, you have two way:
 
 **1 - Download a precompiled binaries (default).**
+
 **2 - Use Clover source code by specifying the path to the src folder (~/src by default) and mark as active the relative option in the Preferences.**
 
 Open the "Clover Manager" under the "View" menu:
+
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/CloverInstaller1.png)
+
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/CloverInstaller2.png)
 
 ## Clover is out of date?
