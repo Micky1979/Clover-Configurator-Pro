@@ -9,6 +9,8 @@ Made with latest Swift 4 (waiting Swift 5  in 2018), has its own parser (each en
 All the code comes from me,  with the only exception of the handy Sparkle.framenwork to keep the app up-to date (and off course Clover), so that giving credit is pretty easy unlike my competitors that have the bad habit of silently include third party software in their application w/o mention them (use class-dump and take a look).
 Run in macOS 10.11 +
 
+p.s. (I use "competitors" word here to underline what I think my "competitors" think of me, but this app doesn't even have a donate button)
+
 Why this name? Ok, "Clover" is an opensource bootloader,
 whould say also that my name is among the Clover's credit (at boot time push the info button) because I wrote the MatchOS set of functions (and other minor things here and there in the build system), unlike my competitors.
 "Configurator" is a common word,
