@@ -85,7 +85,9 @@ Mind that Xcode must be installed and its clt selected.
 
 ## Wants some info about your disks or partitions?
 **The Clover Manager is expandable:**
-![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/CloverManagerExpanded.pngg)
+
+![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/CloverManagerExpanded.png)
+
 **all the info you wants are there. You can also apply filters for slices (partitions), mounted or ESPs if you have more than one.**
 
 ## Additions
