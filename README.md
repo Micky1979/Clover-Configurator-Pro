@@ -2,7 +2,7 @@
 ![alt text](http://www.appmaniaci.com/wp-content/uploads/2011/11/santa-icona.png)
 
 
-# Clover Configurator Pro [Download here](https://github.com/Micky1979/Clover-Configurator-Pro/releases/tag/v1.1-Beta3)
+# Clover Configurator Pro [Download here](https://github.com/Micky1979/Clover-Configurator-Pro/releases/tag/v1.2-Beta4)
 
 A full configurator for [Clover V2](https://sourceforge.net/p/cloverefiboot/code/HEAD/tree) bootloader.
 Made with latest Swift 4 (waiting Swift 5  in 2018), has its own parser (each entry will remains sorted as you leave it before closing the file).
@@ -54,7 +54,7 @@ Clover Configurator Pro can automatically load the config.plist used to boot the
 What if you want to load another one? Simple, open the "Clover Manager" under the "View" menu:
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/selectConfig.png)
 
-right click on the desired disk (boot partition is green colored) and choose one. The partition must be mounted.
+right click on the desired disk and choose one (boot partition is green colored on dark appearance, red otherwise). The partition must be mounted.
 Or if the file is elsewhere just drag it to the applications icon, or right clik on the file you want to open.
 
 How to edit something for Clover? Well, that is the easy part, just right click with the mouse over any entry of the config.plist:
@@ -82,6 +82,11 @@ Open the "Clover Manager" under the "View" menu:
 Clover Configurator Pro keeps Build_Clover.command always up to date and you can use it to download and build
 always the latest Clover revision available. To do that take a look at the "Build_Clover" menu.
 Mind that Xcode must be installed and its clt selected.
+
+## Wants some info about your disks or partitions?
+**The Clover Manager is expandable:**
+![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/CloverManagerExpanded.pngg)
+**all the info you wants are there. You can also apply filters for slices (partitions), mounted or ESPs if you have more than one.**
 
 ## Additions
 Under the view menu you will find confortable having a text to data encoder/decoder, a hex to base64 encoder/decoder
