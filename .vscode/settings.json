@@ -1,0 +1,15 @@
+{
+    "editor.wordWrap": "off",
+    "files.exclude": {
+			"**/.vscode": {},
+			"**/node_modules": {},
+			"typings": {},
+			"**/*.map": {},
+			"**/*.js": {
+				"when": "$(basename).ts"
+			}
+	},
+	"files.autoSave": "afterDelay",
+	"editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+	"eslint.enable": false
+}
