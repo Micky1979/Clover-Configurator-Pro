@@ -8,7 +8,7 @@ export class HomeComponent implements OnInit {
   title = '';
 
   constructor() {
-    this.title = 'Clover Configurator Pro';
+    this.title = 'Clover Configurator Pro Home Page';
   }
 
   ngOnInit() {
