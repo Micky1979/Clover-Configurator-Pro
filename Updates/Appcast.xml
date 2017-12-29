@@ -9,18 +9,18 @@
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
-            <title>v1.2 Beta 4</title>
+            <title>v1.3 Beta 5</title>
             <sparkle:minimumSystemVersion>10.11.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>
                 https://rawgit.com/Micky1979/Clover-Configurator-Pro/master/Updates/ReleaseNote.html
             </sparkle:releaseNotesLink>
-            <pubDate>Wed Dec 26 22:38:08 CEST 2017</pubDate>
-            <enclosure url="https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CCP_v1.2_Beta4.zip?raw=true"
-            sparkle:shortVersionString="v1.2 Beta 4"
-            sparkle:version="1.2"
-            length="9389820"
+            <pubDate>Fri Dec 29 22:55:07 CEST 2017</pubDate>
+            <enclosure url="https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CPP_v1.3_Beta5.zip?raw=true"
+            sparkle:shortVersionString="v1.3 Beta 5"
+            sparkle:version="1.3"
+            length="9410938"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQCdarB0pSC2ReM7msu1LIaik1whVbkxAPmkU/3zFJ7YnAIgGzJcSnC2u8V6ya7dbP6H4NIIjr+QISiKuNYs8dPoSNE=" />
+            sparkle:dsaSignature="MEQCICWm34TqE1/lWMYBRMewxmNHZ6ktLeZD+suyu2MBe+GqAiB5XujvFp9bSzqwb+XNy6oE2AkyE08/C9T5d4iBZ/46pg==" />
         </item>
     </channel>
 </rss>
