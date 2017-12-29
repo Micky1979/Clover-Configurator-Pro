@@ -2,7 +2,7 @@
 ![alt text](http://www.appmaniaci.com/wp-content/uploads/2011/11/santa-icona.png)
 
 
-# Clover Configurator Pro [Download here](https://github.com/Micky1979/Clover-Configurator-Pro/releases/tag/v1.2-Beta4)
+# Clover Configurator Pro [Download here](https://github.com/Micky1979/Clover-Configurator-Pro/releases/download/v1.3-Beta5/CPP_v1.3_Beta5.zip)
 
 A full configurator for [Clover V2](https://sourceforge.net/p/cloverefiboot/code/HEAD/tree) bootloader.
 Made with latest Swift 4 (waiting Swift 5  in 2018), has its own parser (each entry will remains sorted as you leave it before closing the file).
