@@ -1,13 +1,25 @@
 {
   "name": "ccphp",
-  "version": "1.0.0",
-  "author": "Fabio Martino",
+  "version": "1.0.1",
   "description": "This is the Homepage for Clover Configurator Pro on GitHub",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Micky1979/Clover-Configurator-Pro.git"
+    "url": "git+https://github.com/Micky1979/Clover-Configurator-Pro.git"
   },
+  "keywords": [
+    "angular",
+    "angular 2",
+    "angular 5",
+    "clover",
+    "clover configurator pro",
+    "plist"
+  ],
+  "author": "Fabio Martino",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Micky1979/Clover-Configurator-Pro/issues"
+  },
+  "homepage": "https://Micky1979.github.io/Clover-Configurator-Pro",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open",
@@ -33,7 +45,7 @@
     "font-awesome": "^4.7.0",
     "node-sass": "^4.7.2",
     "rxjs": "^5.5.6",
-    "zone.js": "^0.8.18"
+    "zone.js": "^0.8.19"
   },
   "devDependencies": {
     "@angular/cli": "1.6.3",
