@@ -1,6 +1,8 @@
 <header class="navbar navbar-dark py-0 navbar-fixed-top bg-dark navbar-expand-lg py-md-0">
   <div class="container">
-    <a class="navbar-brand" [routerLink]="['/']">CCP</a>
+    <a class="navbar-brand" [routerLink]="['/']">
+      <img src="../assets/img/CCP.png" alt="CCP" style="width:40px;">
+    </a>
     <button class="navbar-toggler" (click)="toggleNavbar()" type="button" aria-controls="navbarContent" aria-expanded="false"
       aria-label="Toggle navigation">
       <span *ngIf="navbarCollapsed" class="fa fa-bars fa-lg"></span>
