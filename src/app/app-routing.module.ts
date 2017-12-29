@@ -7,10 +7,12 @@ import { ErrorsComponent } from './components/errors/errors.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { InformationComponent } from './components/information/information.component';
 
 const routes: Routes = [
   { path: '', pathMatch: 'full', redirectTo: 'home' },
   { path: 'home', component: HomeComponent },
+  { path: 'information', component: InformationComponent },
   { path: 'about', component: AboutComponent },
   { path: '**',   component: ErrorsComponent }
 ];

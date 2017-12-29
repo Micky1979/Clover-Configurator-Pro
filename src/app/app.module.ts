@@ -16,6 +16,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { HomeComponent } from './components/home/home.component';
 import { ErrorsComponent } from './components/errors/errors.component';
 import { AboutComponent } from './components/about/about.component';
+import { InformationComponent } from './components/information/information.component';
 
 @NgModule({
   imports: [
@@ -27,7 +28,7 @@ import { AboutComponent } from './components/about/about.component';
     AppRoutingModule
   ],
   providers: [],
-  declarations: [ AppComponent, HomeComponent, ErrorsComponent, NavbarComponent, FooterComponent, AboutComponent ],
+  declarations: [ AppComponent, HomeComponent, ErrorsComponent, NavbarComponent, FooterComponent, AboutComponent, InformationComponent ],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { }
