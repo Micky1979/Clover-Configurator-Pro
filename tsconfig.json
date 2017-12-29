@@ -1,5 +1,10 @@
 {
   "compileOnSave": false,
+  "plugins": [
+    {
+      "name": "@angular/language-service"
+    }
+  ],
   "compilerOptions": {
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
