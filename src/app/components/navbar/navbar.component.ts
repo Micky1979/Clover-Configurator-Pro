@@ -28,8 +28,8 @@ export class NavbarComponent implements OnInit {
   constructor() {
     this.navbarCollapsed = true;
     this._navbarCollapsedAnim = 'closed';
+}
 
-  }
   ngOnInit() {
     this.onResize(window);
   }
@@ -44,6 +44,7 @@ export class NavbarComponent implements OnInit {
     }
     this.navbarCollapsed = true;
   }
+
   toggleNavbar(): void {
     if (this.navbarCollapsed) {
       this._navbarCollapsedAnim = 'open';

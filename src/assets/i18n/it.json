@@ -1,0 +1,25 @@
+{
+  "NAVBAR": {
+    "HOME": "Inizio",
+    "INFORMATION": "Informazioni",
+    "ABOUT": "A proposito..."
+  },
+  "HOMEPAGE": {
+    "WELCOME": "Benvenuto a",
+    "STARTPAGE": "Pagina Iniziale"
+  },
+  "INFORMATION": {
+    "CONTENT": "Pagina Informazioni."
+  },
+  "ABOUT": {
+    "CONTENT": "Pagina a proposito di..."
+  },
+  "FOOTER": {
+    "COPYRIGHT": "Tutti i diritti riservati",
+    "LICENSED": "Codice concesso in licenza secondo il MIT."
+  },
+  "ERRORS": {
+    "NOTFOUND": "Errore 404 Non trovato",
+    "CONTENT": "Forse ti sei perso. Segui il seguente collegamento per tornare all'"
+  }
+}

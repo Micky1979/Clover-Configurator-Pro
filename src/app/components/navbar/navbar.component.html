@@ -11,15 +11,15 @@
       <ul class="navbar-nav mr-auto ml-auto">
         <li class="nav-item py-0" [routerLinkActive]="['active']">
           <a class="nav-link" [routerLink]="['/home']">
-            <i class="fa fa-home"></i> Home </a>
+            <i class="fa fa-home"></i>&nbsp;{{ 'NAVBAR.HOME' | translate }}&nbsp;</a>
         </li>
         <li class="nav-item py-0" [routerLinkActive]="['active']">
           <a class="nav-link" [routerLink]="['/information']">
-            <i class="fa fa-book"></i> Information </a>
+            <i class="fa fa-book"></i>&nbsp;{{ 'NAVBAR.INFORMATION' | translate }}&nbsp;</a>
         </li>
         <li class="nav-item py-0" [routerLinkActive]="['active']">
           <a class="nav-link" [routerLink]="['/about']">
-            <i class="fa fa-info-circle"></i> About </a>
+            <i class="fa fa-info-circle"></i>&nbsp;{{ 'NAVBAR.ABOUT' | translate }}&nbsp;</a>
         </li>
       </ul>
     </div>

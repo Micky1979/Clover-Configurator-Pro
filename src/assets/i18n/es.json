@@ -1,0 +1,25 @@
+{
+  "NAVBAR": {
+    "HOME": "Inicio",
+    "INFORMATION": "Información",
+    "ABOUT": "Acerca de"
+  },
+  "HOMEPAGE": {
+    "WELCOME": "¡Bienvenido a",
+    "STARTPAGE": "Página de Inicio"
+  },
+  "INFORMATION": {
+    "CONTENT": "Página de Información."
+  },
+  "ABOUT": {
+    "CONTENT": "Página acerca de..."
+  },
+  "FOOTER": {
+    "COPYRIGHT": "Derechos de autor",
+    "LICENSED": "Código licenciado bajo MIT."
+  },
+  "ERRORS": {
+    "NOTFOUND": "Error 404",
+    "CONTENT": "You may be lost. Follow the breadcrumbs back"
+  }
+}
