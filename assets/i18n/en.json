@@ -1,0 +1,25 @@
+{
+  "NAVBAR": {
+    "HOME": "Home",
+    "INFORMATION": "Information",
+    "ABOUT": "About"
+  },
+  "HOMEPAGE": {
+    "WELCOME": "Welcome to",
+    "STARTPAGE": "Home Page"
+  },
+  "INFORMATION": {
+    "CONTENT": "Information page."
+  },
+  "ABOUT": {
+    "CONTENT": "About pages..."
+  },
+  "FOOTER": {
+    "COPYRIGHT": "Copyright",
+    "LICENSED": "Code licensed under MIT."
+  },
+  "ERRORS": {
+    "NOTFOUND": "404 Not Found",
+    "CONTENT": "You may be lost. Follow the breadcrumbs back"
+  }
+}
