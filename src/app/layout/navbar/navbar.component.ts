@@ -2,6 +2,7 @@ import { Component, TemplateRef, HostListener, HostBinding, OnInit } from '@angu
 import { trigger, state, style, animate, transition } from '@angular/animations';
 
 @Component({
+  moduleId: module.id.toString(),
   selector: 'ccphp-navbar',
   templateUrl: './navbar.component.html',
   animations: [
@@ -28,7 +29,7 @@ export class NavbarComponent implements OnInit {
   constructor() {
     this.navbarCollapsed = true;
     this._navbarCollapsedAnim = 'closed';
-}
+  }
 
   ngOnInit() {
     this.onResize(window);
@@ -45,7 +46,7 @@ export class NavbarComponent implements OnInit {
     this.navbarCollapsed = true;
   }
 
-  toggleNavbar(): void {
+  public toggleNavbar(): void {
     if (this.navbarCollapsed) {
       this._navbarCollapsedAnim = 'open';
       this.navbarCollapsed = false;
@@ -55,7 +56,7 @@ export class NavbarComponent implements OnInit {
     }
   }
 
-  get collapseNavbar(): string {
+  public get collapseNavbar(): string {
     return this._navbarCollapsedAnim;
   }
 }

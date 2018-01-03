@@ -1,0 +1,25 @@
+{
+  "NAVBAR": {
+    "HOME": "Accueil",
+    "INFORMATION": "Information",
+    "ABOUT": "À propos de"
+  },
+  "HOMEPAGE": {
+    "WELCOME": "Bienvenue à",
+    "STARTPAGE": "Page Accueil"
+  },
+  "INFORMATION": {
+    "CONTENT": "Page d'information."
+  },
+  "ABOUT": {
+    "CONTENT": "À propos de..."
+  },
+  "FOOTER": {
+    "COPYRIGHT": "Droits d'auteur",
+    "LICENSED": "Code sous licence MIT."
+  },
+  "ERRORS": {
+    "NOTFOUND": "404 introuvable",
+    "CONTENT": "Vous pourriez être perdu. Suivez la chapelure en arrière."
+  }
+}

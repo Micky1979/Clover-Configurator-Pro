@@ -1,14 +1,13 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'ccphp-about',
+  moduleId: module.id.toString(),
   templateUrl: './about.component.html'
 })
 export class AboutComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
+  ngOnInit() { }
 
 }

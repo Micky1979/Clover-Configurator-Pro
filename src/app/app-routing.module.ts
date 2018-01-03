@@ -1,20 +1,21 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-// Components
-import { AboutComponent } from './components/about/about.component';
-import { ErrorsComponent } from './components/errors/errors.component';
-import { FooterComponent } from './components/footer/footer.component';
-import { HomeComponent } from './components/home/home.component';
-import { NavbarComponent } from './components/navbar/navbar.component';
-import { InformationComponent } from './components/information/information.component';
+// Main Components
+import {
+  HomeComponent,
+  InformationComponent,
+  AboutComponent,
+  ErrorsComponent
+} from './layout/main/index';
 
 const routes: Routes = [
-  { path: '', pathMatch: 'full', redirectTo: 'home' },
+  { path: '', pathMatch: 'full', component: HomeComponent },
   { path: 'home', component: HomeComponent },
   { path: 'information', component: InformationComponent },
   { path: 'about', component: AboutComponent },
-  { path: '**',   component: ErrorsComponent }
+  // otherwise redirect to error page
+  { path: '**', component: ErrorsComponent }
 ];
 
 @NgModule({
@@ -22,3 +23,5 @@ const routes: Routes = [
   exports: [ RouterModule ]
 })
 export class AppRoutingModule { }
+
+export const routedComponents = [HomeComponent, InformationComponent, AboutComponent, ErrorsComponent];

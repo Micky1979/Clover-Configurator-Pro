@@ -10,17 +10,13 @@ import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 
 // Dependencies
-import { AppRoutingModule } from './app-routing.module';
+import { AppRoutingModule, routedComponents } from './app-routing.module';
 
 // Components
 import { AppComponent } from './app.component';
 
-import { NavbarComponent } from './components/navbar/navbar.component';
-import { FooterComponent } from './components/footer/footer.component';
-import { HomeComponent } from './components/home/home.component';
-import { ErrorsComponent } from './components/errors/errors.component';
-import { AboutComponent } from './components/about/about.component';
-import { InformationComponent } from './components/information/information.component';
+import { NavbarComponent } from './layout/navbar/navbar.component';
+import { FooterComponent } from './layout/footer/footer.component';
 
 // AoT requires an exported function for factories
 export function createTranslateLoader(http: HttpClient) {
@@ -46,7 +42,7 @@ export function createTranslateLoader(http: HttpClient) {
     AppRoutingModule
   ],
   providers: [],
-  declarations: [AppComponent, HomeComponent, ErrorsComponent, NavbarComponent, FooterComponent, AboutComponent, InformationComponent],
-  bootstrap: [AppComponent]
+  declarations: [ AppComponent, routedComponents, NavbarComponent, FooterComponent ],
+  bootstrap: [ AppComponent ]
 })
 export class AppModule { }

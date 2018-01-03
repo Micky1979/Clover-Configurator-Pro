@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
+  moduleId: module.id.toString(),
   selector: 'ccphp-errors',
   templateUrl: './errors.component.html'
 })
