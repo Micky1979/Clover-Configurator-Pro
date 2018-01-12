@@ -1,5 +1,4 @@
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/CCP.png)
-![alt text](http://www.appmaniaci.com/wp-content/uploads/2011/11/santa-icona.png)
 
 
 # Clover Configurator Pro [Download here](https://github.com/Micky1979/Clover-Configurator-Pro/releases/download/v1.3.8/CCP_v1.3.8.zip)
