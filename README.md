@@ -1,10 +1,10 @@
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/CCP.png)
 
 
-# Clover Configurator Pro [Download here](https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CCP_v1.4.1.zip?raw=true)
+# Clover Configurator Pro [Download here](https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CCP_v2.0.0.zip?raw=true)
 
 A full configurator for [Clover V2](https://sourceforge.net/p/cloverefiboot/code/HEAD/tree) bootloader.
-Made with latest Swift 4 (waiting Swift 5  in 2018), has its own parser (each entry will remains sorted as you leave it before closing the file).
+Made with latest Swift 5, has its own parser (each entry will remains sorted as you leave it before closing the file).
 All the code comes from me,  with the only exception of the handy Sparkle.framenwork to keep the app up-to date (and off course Clover), so that giving credit is pretty easy unlike my competitors that have the bad habit of silently include third party software in their application w/o mention them (use class-dump and take a look).
 Run in macOS 10.11 +
 
