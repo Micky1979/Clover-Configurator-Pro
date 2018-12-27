@@ -9,18 +9,18 @@
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
-            <title>v2.0.0</title>
+            <title>v2.0.1</title>
             <sparkle:minimumSystemVersion>10.11.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>
                 https://rawgit.com/Micky1979/Clover-Configurator-Pro/master/Updates/ReleaseNote.html
             </sparkle:releaseNotesLink>
-            <pubDate>Wed Dec 26 19:30:58 CEST 2018</pubDate>
-            <enclosure url="https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CCP_v2.0.0.zip?raw=true"
-            sparkle:shortVersionString="v2.0.0"
-            sparkle:version="2.0.0"
-            length="12336623"
+            <pubDate>Wed Dec 27 13:14:58 CEST 2018</pubDate>
+            <enclosure url="https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CCP_v2.0.1.zip?raw=true"
+            sparkle:shortVersionString="v2.0.1"
+            sparkle:version="2.0.1"
+            length="12336548"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCICfMoMVLujt9vHxa7806YL5bFKfOpcwoiJr/U9BcUXRGAiEAkZrpXLztV2S63bzgCH/0YhpjgkeQC0ygiaQWs68a1ws=" />
+            sparkle:dsaSignature="MEQCIAVhxR8N/OEmBEVGpycfqHgyrwx4FoHRFzW64/XGk3GmAiB62RLCvRPf2WMezfyhqtk0l5NB0VHINfSpRaKKUvdIbA==" />
         </item>
     </channel>
 </rss>
