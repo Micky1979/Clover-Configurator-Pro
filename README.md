@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/Micky1979/Clover-Configurator-Pro/master/pict/CCP.png)
 
 
-# Clover Configurator Pro [Download here](https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CCP_v2.0.0.zip?raw=true)
+# Clover Configurator Pro [Download here](https://github.com/Micky1979/Clover-Configurator-Pro/blob/master/Updates/CCP_v2.0.1.zip?raw=true)
 
 A full configurator for [Clover V2](https://sourceforge.net/p/cloverefiboot/code/HEAD/tree) bootloader.
 Made with latest Swift 5, has its own parser (each entry will remains sorted as you leave it before closing the file).
